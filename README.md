@@ -39,9 +39,10 @@
 
 ---
 
+<!-- 
 ## 📊 GitHub Stats
 
-<!-- ![Manvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manvi06&show_icons=true&theme=default&hide_border=true)
+![Manvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manvi06&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manvi06&layout=compact&hide_border=true)
 -->
 ---
